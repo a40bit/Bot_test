@@ -2,7 +2,7 @@ import requests
 import time
 
 API_URL = "https://api.telegram.org/bot"
-BOT_TOKEN = "7173156810:AAFovgNeUCM_Voqk0nvJQo1kUbLI66VEzng"
+BOT_TOKEN = 
 
 offset = -2
 timeout = 23
